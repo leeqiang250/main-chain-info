@@ -4,10 +4,9 @@ https://docs.bnbchain.org/docs/rpc
 
 ### BNB主网
 
-网络名称:BNB Smart Chain Mainnet
+网络名称:BNB Smart Chain MainNet
 
 RPC:
-
 https://bsc-dataseed.binance.org/
 
 https://bsc-dataseed1.defibit.io/
@@ -24,7 +23,7 @@ https://bsc.nodereal.io/
 
 ### BNB测试网
 
-网络名称:BNB Smart Chain Testnet
+网络名称:BNB Smart Chain TestNet
 
 RPC:
 
