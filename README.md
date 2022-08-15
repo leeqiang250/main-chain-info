@@ -7,6 +7,7 @@ https://docs.bnbchain.org/docs/rpc
 网络名称:BNB Smart Chain MainNet
 
 RPC:
+
 https://bsc-dataseed.binance.org/
 
 https://bsc-dataseed1.defibit.io/
