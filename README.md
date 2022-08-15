@@ -4,7 +4,7 @@ https://docs.bnbchain.org/docs/rpc
 
 ### BNB主网
 
-网络名称:BNB Smart Chain MainNet
+网络名称:BNB Smart Chain Main Net
 
 RPC:
 
@@ -24,7 +24,7 @@ https://bsc.nodereal.io/
 
 ### BNB测试网
 
-网络名称:BNB Smart Chain TestNet
+网络名称:BNB Smart Chain Test Net
 
 RPC:
 
@@ -47,3 +47,52 @@ https://data-seed-prebsc-2-s3.binance.org:8545/
 区块浏览器:https://testnet.bscscan.com/
 
 水龙头:https://testnet.binance.org/faucet-smart/
+
+### 火币生态链主网
+
+网络名称:Huobi ECO Chain Main Net
+
+RPC:https://http-mainnet.hecochain.com/
+
+链 ID:128
+
+货币符号:HT
+
+区块浏览器:
+
+### 火币生态链测试网
+
+网络名称:Huobi ECO Chain Test Net
+
+RPC:https://http-testnet.hecochain.com/
+
+链 ID:256
+
+货币符号:HT
+
+区块浏览器:
+
+### Matic主网
+
+网络名称:Matic Main Net
+
+RPC:https://rpc-mainnet.matic.network/
+
+链 ID:137
+
+货币符号:
+
+区块浏览器:
+
+
+### Matic测试网
+
+网络名称:Matic Test Net
+
+RPC:https://rpc-mumbai.matic.today/
+
+链 ID:80001
+
+货币符号:
+
+区块浏览器:
