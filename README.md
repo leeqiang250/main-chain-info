@@ -45,3 +45,5 @@ https://data-seed-prebsc-2-s3.binance.org:8545/
 货币符号:BNB
 
 区块浏览器:https://testnet.bscscan.com/
+
+水龙头:https://testnet.binance.org/faucet-smart/
