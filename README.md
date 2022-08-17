@@ -34,7 +34,7 @@
     RPC:https://http-mainnet.hecochain.com/
     链 ID:128
     货币符号:HT
-    区块浏览器:
+    区块浏览器:https://hecoinfo.com
 
 ### 火币生态链测试网
 
